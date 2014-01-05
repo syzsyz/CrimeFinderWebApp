@@ -1,0 +1,2 @@
+serviceClass: com.f13.crimefinder.client.ServerConnection
+path: 1DABDE945A6CD9BE3BDF70DA7E49BB03.gwt.rpc
